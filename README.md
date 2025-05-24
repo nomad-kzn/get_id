@@ -33,4 +33,4 @@ a9810d73-4297-401c-a218-0f5f4102b79a
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
